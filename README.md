@@ -8,7 +8,7 @@ Clonar el repositorio
 
          git clone https://github.com/EmilianoQuiroz/App-Mercado-Pago.git
       
-En terminal powerahell ir al directorio del proyecto
+En terminal powershell ir al directorio del proyecto
 
          cd ./App_Mercado_Pago
          
