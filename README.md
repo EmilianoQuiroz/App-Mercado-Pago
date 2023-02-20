@@ -6,4 +6,16 @@ Clon de la aplicacion de mercado pago utilizando React Native, Expo y Typescript
 
 Clonar el repositorio
 
-        $ git clone https://github.com/EmilianoQuiroz/App-Mercado-Pago.git
+         git clone https://github.com/EmilianoQuiroz/App-Mercado-Pago.git
+      
+En terminal powerahell ir al directorio del proyecto
+
+         cd ./App_Mercado_Pago
+         
+Instalar dependencias
+
+         npm install
+         
+Levantar el servidor
+
+         npm start
